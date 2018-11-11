@@ -1,0 +1,23 @@
+{
+  "name": "Harvard Shuttle",
+  "version": "2.0.0",
+  "description": "Now you too can know what it's like to be quadded",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "harvard",
+    "shuttle",
+    "crimson",
+    "cruiser",
+    "quad",
+    "express",
+    "1636"
+  ],
+  "author": "Raymond Wang",
+  "license": "MIT",
+  "dependencies": {
+    "ask-sdk": "^2.0.0"
+  }
+}
